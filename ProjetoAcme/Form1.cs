@@ -17,7 +17,7 @@ namespace ProjetoAcme
     {
         string sdi = "HELLO";
         string sbv = "DO YOU AGAIN";
-
+        string nome = "";
         public Form1()
         {
             InitializeComponent();
@@ -31,8 +31,20 @@ namespace ProjetoAcme
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            string nome = textBox1.Text;
+            nome = textBox1.Text;
             MessageBox.Show(sdi + " " + sbv + " " + nome);
+            string msi = sdi + " " + sbv + " " + nome;
+            textBox2.Text = msi.ToString();
+
+            
+
+
+        }
+
+
+        public override string ToString()
+        {
+            return sdi + " " + sbv + " " + " " + nome;
         }
     }
 }
