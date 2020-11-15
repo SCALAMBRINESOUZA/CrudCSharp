@@ -1,0 +1,10 @@
+C:\Users\henri\OneDrive\Email attachments\Documentos\Meus Projetos\CrudCSharp\ProjetoAcme\bin\Debug\ProjetoAcme.exe.config
+C:\Users\henri\OneDrive\Email attachments\Documentos\Meus Projetos\CrudCSharp\ProjetoAcme\bin\Debug\ProjetoAcme.exe
+C:\Users\henri\OneDrive\Email attachments\Documentos\Meus Projetos\CrudCSharp\ProjetoAcme\bin\Debug\ProjetoAcme.pdb
+C:\Users\henri\OneDrive\Email attachments\Documentos\Meus Projetos\CrudCSharp\ProjetoAcme\obj\Debug\ProjetoAcme.csprojAssemblyReference.cache
+C:\Users\henri\OneDrive\Email attachments\Documentos\Meus Projetos\CrudCSharp\ProjetoAcme\obj\Debug\ProjetoAcme.Form1.resources
+C:\Users\henri\OneDrive\Email attachments\Documentos\Meus Projetos\CrudCSharp\ProjetoAcme\obj\Debug\ProjetoAcme.Properties.Resources.resources
+C:\Users\henri\OneDrive\Email attachments\Documentos\Meus Projetos\CrudCSharp\ProjetoAcme\obj\Debug\ProjetoAcme.csproj.GenerateResource.cache
+C:\Users\henri\OneDrive\Email attachments\Documentos\Meus Projetos\CrudCSharp\ProjetoAcme\obj\Debug\ProjetoAcme.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Email attachments\Documentos\Meus Projetos\CrudCSharp\ProjetoAcme\obj\Debug\ProjetoAcme.exe
+C:\Users\henri\OneDrive\Email attachments\Documentos\Meus Projetos\CrudCSharp\ProjetoAcme\obj\Debug\ProjetoAcme.pdb
