@@ -34,7 +34,7 @@ namespace ProjetoAcme
             nome = textBox1.Text;
             MessageBox.Show(sdi + " " + sbv + " " + nome);
             string msi = sdi + " " + sbv + " " + nome;
-            textBox2.Text = msi.ToString();
+            textBox3.Text = msi.ToString();
 
             
 
